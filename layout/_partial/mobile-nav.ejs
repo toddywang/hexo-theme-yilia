@@ -18,14 +18,6 @@
 			<% if (theme.subtitle){ %>
 			<p class="header-subtitle"><%=theme.subtitle%></p>
 			<%}%>
-			<nav class="header-menu">
-				<ul>
-				<% for (var i in theme.menu){ %>
-					<li><a href="<%- url_for(theme.menu[i]) %>"><%= i %></a></li>
-		        <%}%>
-		        <div class="clearfix"></div>
-				</ul>
-			</nav>
 			<nav class="header-nav">
 				<div class="social">
 					<% for (var i in theme.subnav){ %>
