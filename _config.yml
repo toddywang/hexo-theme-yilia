@@ -8,7 +8,7 @@ menu:
 subnav:
   github: "https://github.com/toddywang"
   weibo: "http://weibo.com/toddyinchina"
-  #rss: "#"
+  rss: "/atom.xml"
   #zhihu: "#"
   #douban: "#"
   #mail: "#"
