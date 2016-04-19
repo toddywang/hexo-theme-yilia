@@ -35,7 +35,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: https://avatars0.githubusercontent.com/u/3415622?v=3&u=d98fa33569de6d8aecbf64250cf9c0d90786712d&s=140
 #是否开启分享
 share_jia: false
 share_addthis: false
